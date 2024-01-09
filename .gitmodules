@@ -1,0 +1,24 @@
+[submodule "venda_locatech"]
+	path = venda_locatech
+	url = https://github.com/pedrohervencio/venda_locatech.git
+[submodule "reserva_locatech"]
+	path = reserva_locatech
+	url = https://github.com/pedrohervencio/reserva_locatech.git
+[submodule "plano_loctech"]
+	path = plano_loctech
+	url = https://github.com/pedrohervencio/plano_loctech.git
+[submodule "planejamento_locatech"]
+	path = planejamento_locatech
+	url = https://github.com/pedrohervencio/planejamento_locatech.git
+[submodule "manutencao_locatech"]
+	path = manutencao_locatech
+	url = https://github.com/pedrohervencio/manutencao_locatech.git
+[submodule "locacao_locatech"]
+	path = locacao_locatech
+	url = https://github.com/pedrohervencio/locacao_locatech.git
+[submodule "cotacao_locatech"]
+	path = cotacao_locatech
+	url = https://github.com/pedrohervencio/cotacao_locatech.git
+[submodule "compra_locatech"]
+	path = compra_locatech
+	url = https://github.com/pedrohervencio/compra_locatech.git
